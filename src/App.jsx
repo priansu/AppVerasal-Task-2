@@ -18,9 +18,6 @@ export default function App() {
         <div className="workspace-intro">
           <div>
             <span className="eyebrow">Campaign builder / Draft</span>
-            <h1>
-              Make feedback feel <em>human.</em>
-            </h1>
             <p>
               Design a thoughtful CSAT moment your customers will actually want
               to answer.
